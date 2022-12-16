@@ -16,6 +16,3 @@ members = [
 authors = ["Mikołaj Rosowski <m.rosowski1@wp.pl>"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[workspace.dependencies]
-anyhow = "1.0.66"
